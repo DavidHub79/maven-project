@@ -2,7 +2,10 @@ package com.example;
 
 
 public class Greeter {
-
+/**
+* on décrit la méthode pour faire sortir.
+*constructeur par défaut
+*/
   
   public Greeter() {
 
